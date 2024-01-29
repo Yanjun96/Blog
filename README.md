@@ -4,11 +4,11 @@ git commit -m "first commit"\
 git remode add origin https://github.com/Yanjun96/blog.git\
 git push -u origin master\
 
-git satus\\
-git add . \\
-git commit -m "initial commit" \\
-git remote add origin https://github.com/Yanjun96/blog.git\\
-git push origin main\\
+git satus\
+git add . \
+git commit -m "initial commit" \
+git remote add origin https://github.com/Yanjun96/blog.git\
+git push origin main\
 
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
