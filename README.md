@@ -1,8 +1,8 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remode add origin https://github.com/Yanjun96/blog.git
-git push -u origin master
+git init \
+git add README.md\
+git commit -m "first commit"\
+git remode add origin https://github.com/Yanjun96/blog.git\
+git push -u origin master\
 
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
