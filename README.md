@@ -1,8 +1,7 @@
 git init \
 git add README.md\
-git commit -m "first commit" \
-git remode add origin https://github.com/Yanjun96/blog.git \
-git push -u origin master \
+git pull https://github.com/Yanjun96/blog.git
+
 
 git status \
 git add . \
