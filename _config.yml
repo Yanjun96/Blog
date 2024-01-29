@@ -4,9 +4,9 @@ description: 'Some questions.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo: "/assets/img/branding/yanjun.svg"
+logo-icon: "/assets/img/branding/yanjun.svg"
+logo-icon-SEO: "/assets/img/branding/yanjun.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
