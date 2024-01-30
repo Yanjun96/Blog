@@ -5,8 +5,8 @@ permalink: ':title:output_ext'
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/yanjun.png"
-logo-icon: "/assets/img/branding/yanjun.png"
-logo-icon-SEO: "/assets/img/branding/yanjun.png" # must be a non SVG file
+logo-icon: "/assets/img/branding/MVM-symbol-black.png"
+logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Yanjun Zhang # add your name
-author-pic: Myself_Neon_grey.jpg
+author-pic: "/assets/img/branding/yanjun.png"
 about-author: PhD student, interesting in numerical method, CFD and FEM.
 
 # Contact links
