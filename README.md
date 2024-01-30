@@ -6,7 +6,7 @@ git pull https://github.com/Yanjun96/blog.git
 git status \
 git add . \
 git commit -m "initial commit" \
-git remote add origin https://github.com/Yanjun96/blog.git \
+git remote add origin https://github.com/Yanjun96/blog.git  (only for first time)\
 git push origin main \
 
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
