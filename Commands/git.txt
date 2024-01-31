@@ -1,0 +1,25 @@
+
+git init
+git pull https://github.com/Yanjun96/FEniCSx.git
+
+git status
+git add .
+git commit -m "YOur comment"
+
+(only once)
+git remote add origin https://github.com/Yanjun96/FEniCSx.git
+
+git push origin main
+
+
+
+
+
+## change master branch to main
+git remote -v
+
+git branch 0=-m master main
+
+git push -u origin main
+
+git symbolic-ref HEAD refs/heads/main
