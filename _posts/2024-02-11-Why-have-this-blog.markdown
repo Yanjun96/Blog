@@ -2,12 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title:  Why have this blog?
+title:  为什么会有这个小平台写东西
 date:   2024-02-11 19:55:20 
 description: The first blog 
 img: assets/img/posts/20240211/yanjun.jpg 
 tags: [blog, write]
-author: yanjun zhang
+author: 张彦军
 github:  Yanjun96
 mathjax: yes
 ---
@@ -28,5 +28,5 @@ mathjax: yes
 ![yanjun](./assets/img/posts/20240211/yanjun,jpg)
 
 
-
+我也不太确定具体会写什么，很随机hh.
 
