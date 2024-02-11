@@ -25,7 +25,7 @@ mathjax: yes
 
 4：将来再看会感觉很有趣或许，好记性不如烂笔头，写下的东西会一直在那里，而说过的话可能随风飘走了。
 
-![Alexa recognizing speach](./assets/img/posts/20240211/yanjun,jpg)
+![yanjun](./assets/img/posts/20240211/yanjun,jpg)
 
 
 
