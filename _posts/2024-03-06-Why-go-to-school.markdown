@@ -15,16 +15,16 @@ mathjax: yes
 
 # Why we need to go to school?
 
-I am nearly 28 years old and almost all of my time is in academia, or said school. I have met lots of people(Chinese, European) and they have different answers for this question.
+I am nearly 28 years old and almost all of my time is in academia, or said school. I have met lots of people(Chinese, European) and they have different answers to this question.
 
 
 ## The first is my answer: 
 
-From kinderdgarden to high school(2000-2014), I went to school because my mom required. 
+From kinderdgarten to high school(2000-2014), I went to school because my mom required me. 
 
-My mom always told me the study is the only way you can have a good future. Also, the teacher, the relatives, every adult have the same opinion. I gusse the main reason is the generation of my parents(born around 1960), if someone can go to university, the government will offer their work directly. Since the educated people during last centuries of China is seldom. During 2000-2014, I just follow what parents required me to do, not too much passion, the goal is make my mom happy. 
+My mom always told me that study is the only way you can have a good future. Also, the teacher, the relatives, every adult have the same opinion. I guess the main reason is the generation of my parents(born around 1960), if someone can go to university, the government will offer their work directly. Since the educated people during the last centuries of China is seldom. During 2000-2014, I just followed what my parents required me to do, not too much passion, the goal is make my mom happy. 
 
-From 2014 to now, 2024. The main reason for me to keep study is lack of security and curious. 
+From 2014 to now, 2024. The main reason for me to keeping study is lack of security and curiority to this world. 
 China has so many people and you need to have a good diploma to find a job. This is what I thought before 2018. After that, my mind changed. The reason is below from one book named ‘Study in Cambridge and Oxford’ (https://zhuanlan.zhihu.com/p/501187754) :
 
 William Cory, the schoolmaster-poet, gave his views on the purpose of education in his paper Eton Reform II.
@@ -39,4 +39,6 @@ William Cory, the schoolmaster-poet, gave his views on the purpose of education 
 
 – William Johnson (1823-1892)
 
+
+## Answeras from my friends
 
