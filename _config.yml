@@ -25,13 +25,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Yanjun Zhang # add your name
-author-pic: "/assets/img/branding/yanjun.png"
+# author-pic: "/assets/img/branding/yanjun.png"
 about-author: PhD student, interesting in numerical method, CFD and FEM.
 
 # Contact links
 email: simpson1996@live.cn # Add your Email address
 phone: # Add your Phone number
-website: https://github.com/Yanjun96/blog # Add your website
+# website: https://github.com/Yanjun96/blog # Add your website
 linkedin: yanjun zhang # Add your Linkedin handle
 github: Yanjun96 # Add your Github handle
 # twitter: '@MvmThe' # Add your Twitter handle
