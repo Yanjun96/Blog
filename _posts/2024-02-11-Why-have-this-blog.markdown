@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  为什么会有这个小平台写东西
+title:  为什么会有这个小平台写东西?
 date:   2024-02-11 19:55:20 
 description: The first blog 
 img: assets/img/posts/20240211/yanjun.jpg 
